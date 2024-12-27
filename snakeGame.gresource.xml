@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/gd/rf/dowtyblog">
+    <file alias="icons/hicolor/48x48/apps/micon.ico">res/micon.ico</file>
+    <file alias="res/ate_8bit.mp3">res/ate_8bit.mp3</file>
+    <file alias="res/Rockman3Shortend.mp3">res/Rockman3Shortend.mp3</file>
+    <file alias="res/skaterswaltz_8bit.mp3">res/skaterswaltz_8bit.mp3</file>
+  </gresource>
+</gresources>

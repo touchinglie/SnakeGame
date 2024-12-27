@@ -1,0 +1,14 @@
+[
+{
+  "directory": "G:/programing/c/course/special/5.Snake/packup/build",
+  "command": "E:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/SnakeGame.dir/includes_C.rsp -g -std=gnu11   -mfpmath=sse -msse -msse2 -o CMakeFiles\\SnakeGame.dir\\snakeGameWin.c.obj -c G:\\programing\\c\\course\\special\\5.Snake\\packup\\snakeGameWin.c",
+  "file": "G:/programing/c/course/special/5.Snake/packup/snakeGameWin.c",
+  "output": "CMakeFiles/SnakeGame.dir/snakeGameWin.c.obj"
+},
+{
+  "directory": "G:/programing/c/course/special/5.Snake/packup/build",
+  "command": "E:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/SnakeGame.dir/includes_C.rsp -g -std=gnu11   -mfpmath=sse -msse -msse2 -o CMakeFiles\\SnakeGame.dir\\resources.c.obj -c G:\\programing\\c\\course\\special\\5.Snake\\packup\\build\\resources.c",
+  "file": "G:/programing/c/course/special/5.Snake/packup/build/resources.c",
+  "output": "CMakeFiles/SnakeGame.dir/resources.c.obj"
+}
+]

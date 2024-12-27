@@ -1,0 +1,4 @@
+G:/programing/c/course/special/5.Snake/packup/build/CMakeFiles/SnakeGame.dir
+G:/programing/c/course/special/5.Snake/packup/build/CMakeFiles/generate_resources.dir
+G:/programing/c/course/special/5.Snake/packup/build/CMakeFiles/edit_cache.dir
+G:/programing/c/course/special/5.Snake/packup/build/CMakeFiles/rebuild_cache.dir
